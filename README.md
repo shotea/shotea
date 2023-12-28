@@ -7,9 +7,8 @@ I'm Sergiu Hotea, I Study Computer Science at Hunter University in New York. I e
 ## Skills and Experience
 * :atom: React
 * 💻 HTML, CSS, JS
-
-
-Skills: C++ / HTML / CSS / JavaScript / Python / React / SQL
+* 🧮 C++
+* 📊 SQL
 
  You can check out my LinkedIn at https://www.linkedin.com/in/sergiuhotea
 ![Sergiu's github stats](https://github-readme-stats.vercel.app/api?username=shotea)
