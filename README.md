@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### Design and Development
 ![Design and Development](https://github.com/shotea/shotea/blob/main/B2.png)
 
 I'm Sergiu Hotea, I Study Computer Science at Hunter University in New York. I enjoy learning languages and frameworks like React, Bootstrap, Node.js, SQL, C++, Python, HTML, CSS, and JavaScript. 
