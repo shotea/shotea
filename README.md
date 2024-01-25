@@ -2,7 +2,7 @@
 
 # Sergiu Hotea
 
-Portfolio: https://poetic-hummingbird-11cca5.netlify.app/
+# Portfolio: https://poetic-hummingbird-11cca5.netlify.app/
 
 I'm Sergiu Hotea, I Study Computer Science at Hunter University in New York. I enjoy learning languages and frameworks like React, Bootstrap, Node.js, SQL, C++, Python, HTML, CSS, and JavaScript. 
 
