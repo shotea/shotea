@@ -7,8 +7,11 @@
 I'm Sergiu Hotea, I Study Computer Science at Hunter University in New York. I enjoy learning languages and frameworks like React, Bootstrap, Node.js, SQL, C++, Python, HTML, CSS, and JavaScript. 
 
 ## Skills and Experience
+* 📊 SQL
+* ![Tableau](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tableau.svg)
+Tableau
+* Excel
 * :atom: React
-* 💻 HTML, CSS, JS
 * 🧮 C++
 * 📊 SQL
 
