@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/shotea/shotea/blob/main/B2.png)
+![Design and Development](https://github.com/shotea/shotea/blob/main/DS.png)
 
 # Sergiu Hotea
 
